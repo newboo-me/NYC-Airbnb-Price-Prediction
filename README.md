@@ -33,6 +33,9 @@
 1. **พิกัดและทำเลที่ตั้ง (Geographical Coordinates):** มีอิทธิพลต่อราคาสูงสุดถึง **28.2%**
 2. **อัตราการเข้าพักและการรีวิว (Booking & Review Rates):** มีอิทธิพลรองลงมาที่ **21.8%** สะท้อนให้เห็นว่าความนิยมของห้องพักมีผลต่อการกำหนดระดับราคาอย่างมาก
 
+## data set
+https://docs.google.com/spreadsheets/d/1DQkyAAZDoal5oPrq2EXsYZDJYcxfpw9PIeUhgVzuZHY/edit?usp=sharing
+
 <img width="1480" height="502" alt="Screenshot 2026-09-06 134811" src="https://github.com/user-attachments/assets/2e1c294a-e45d-4945-aec3-95438ef3c3e2" />
 <img width="1427" height="584" alt="Screenshot 2026-09-06 134837" src="https://github.com/user-attachments/assets/f1addc6f-5027-430a-b7a5-feac8348cfee" />
 <img width="942" height="556" alt="Screenshot 2026-09-06 134921" src="https://github.com/user-attachments/assets/d0de1833-f228-4aa4-89d2-09c4d6f9d1ef" />
