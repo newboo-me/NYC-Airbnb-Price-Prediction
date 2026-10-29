@@ -47,4 +47,10 @@ https://docs.google.com/spreadsheets/d/1DQkyAAZDoal5oPrq2EXsYZDJYcxfpw9PIeUhgVzu
 <img width="443" height="233" alt="Screenshot 2026-09-06 135133" src="https://github.com/user-attachments/assets/40bbb5b4-96b8-420d-b566-32489b93e9d5" />
 <img width="550" height="252" alt="Screenshot 2026-09-06 135217" src="https://github.com/user-attachments/assets/29a1e454-6dec-461c-9adf-ccbb91e64fa7" />
 
+**ไอเดียต่อยอด**
 
+ระบบแนะนำราคาตั้งต้นอัจฉริยะ (Smart Dynamic Pricing Tool): พัฒนาเป็น Web Application สำหรับเจ้าของห้องพัก (Host) เพียงกรอกพิกัด ประเภทห้อง และจำนวนผู้เข้าพัก ระบบจะคำนวณและแนะนำราคาที่เหมาะสมที่สุดเพื่อดึงดูดผู้เช่าและสร้างรายได้สูงสุด (Revenue Optimization)
+
+การผนวกข้อมูลภูมิศาสตร์ขั้นสูง (Geospatial Enrichment): ดึงข้อมูล Open Data ภายนอกเข้ามา Join เพิ่มเติม เช่น ระยะห่างจากสถานีรถไฟฟ้าใต้ดินที่ใกล้ที่สุด, ปริมาณร้านอาหารในรัศมี 500 เมตร, หรืออัตราอาชญากรรมในพื้นที่ เพื่อเพิ่มความแม่นยำของโมเดล
+
+ระบบวิเคราะห์ความคุ้มค่าเพื่อการลงทุนอสังหาริมทรัพย์ (Real Estate Investment Advisor): นำโมเดลมาวิเคราะห์หาทำเลที่ "ราคาซื้อขายอสังหาริมทรัพย์ต่ำ แต่สามารถทำราคาเช่า Airbnb ได้สูง" (Undervalued Neighborhoods) เพื่อใช้เป็นเครื่องมือแนะนำนักลงทุนที่ต้องการซื้อห้องมาทำปล่อยเช่าระยะสั้น
